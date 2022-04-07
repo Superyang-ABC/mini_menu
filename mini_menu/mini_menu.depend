@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649162598 source:e:\05_workspace\menuframe\mini_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"page.h"
+
+1649167705 source:e:\05_workspace\menuframe\mini_menu\page.c
+	"page.h"
+	"stdio.h"
+
+1649162561 e:\05_workspace\menuframe\mini_menu\page.h
+
